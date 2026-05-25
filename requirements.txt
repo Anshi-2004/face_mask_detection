@@ -1,0 +1,23 @@
+# ─────────────────────────────────────────────
+# requirements.txt — Face Mask Detection Project
+# Install with:  pip install -r requirements.txt
+# ─────────────────────────────────────────────
+
+# Deep Learning
+tensorflow>=2.9.0
+
+# Computer Vision
+opencv-python>=4.5.5
+
+# Numerical / Data
+numpy>=1.21.0
+scikit-learn>=1.0.0
+
+# Image utilities
+Pillow>=9.0.0
+
+# GUI
+streamlit>=1.20.0
+
+# Visualization
+matplotlib>=3.5.0
